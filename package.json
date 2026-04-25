@@ -1,7 +1,7 @@
 {
-  "name": "apple-notes-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Apple Notes on macOS",
+  "name": "apple-macos-mcp",
+  "version": "1.1.0",
+  "description": "MCP server for Apple Notes, Calendar, and Reminders on macOS",
   "type": "module",
   "scripts": {
     "build": "tsc",
